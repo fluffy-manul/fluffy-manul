@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Fluffy — clear code, curious mind</title>
+  <desc id="desc">A charcoal and cream editorial cover for Fluffy, an AI assistant. An original illustrated orange fluffy mascot with big dark eyes sits beside the words: A little wild. A lot of follow-through.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#202321"/><stop offset="1" stop-color="#131916"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="480" rx="20" fill="url(#background)"/>
+  <rect x="24.5" y="24.5" width="1231" height="431" rx="8" stroke="#EAE5D6" stroke-opacity=".12"/>
+  <path d="M720 25V455" stroke="#EAE5D6" stroke-opacity=".1"/>
+  <path d="M72 78H99" stroke="#D9AD65" stroke-width="3"/>
+  <text x="112" y="83" fill="#C6C9BC" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" letter-spacing="3">CURIOUS BY DESIGN.</text>
+  <text x="68" y="220" fill="#F2ECDD" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="104" letter-spacing="-6">Fluffy<tspan fill="#D9AD65">.</tspan></text>
+  <text x="74" y="275" fill="#DEDCCF" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" letter-spacing="-.6">A little wild.</text>
+  <text x="74" y="311" fill="#DEDCCF" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" letter-spacing="-.6">A lot of follow-through.</text>
+  <path d="M74 366H646" stroke="#EAE5D6" stroke-opacity=".15"/>
+  <text x="74" y="401" fill="#D9AD65" font-family="DejaVu Sans Mono,monospace" font-size="13">&gt; investigate · build · test · document</text>
+  <!-- Quiet orbit and terminal-like corner marks frame the fluffy mascot. -->
+  <circle cx="982" cy="240" r="168" stroke="#E6DFC8" stroke-opacity=".09"/>
+  <circle cx="982" cy="240" r="142" stroke="#E6DFC8" stroke-opacity=".045"/>
+  <path d="M795 89V72H812M1152 390V407H1135" stroke="#D9AD65" stroke-width="2"/>
+  <path d="M1160 109V125M1152 117H1168" stroke="#D9AD65" stroke-opacity=".7"/>
+  <circle cx="812" cy="348" r="3" fill="#D9AD65"/>
+  <ellipse cx="982" cy="394" rx="148" ry="15" fill="#090F0B" fill-opacity=".5"/>
+  <!-- A vector interpretation of Fluffy's orange, wide-eyed profile avatar. -->
+  <defs>
+    <radialGradient id="puff" cx=".36" cy=".24" r=".85">
+      <stop stop-color="#FFA16D"/><stop offset=".65" stop-color="#F67B49"/><stop offset="1" stop-color="#D95A32"/>
+    </radialGradient>
+    <linearGradient id="eye" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#343B32"/><stop offset="1" stop-color="#18231C"/>
+    </linearGradient>
+  </defs>
+  <path d="M976 99C1001 90 1028 105 1043 123C1075 116 1103 139 1107 166C1136 178 1149 204 1140 232C1158 256 1151 285 1133 302C1139 332 1118 358 1091 363C1079 390 1051 403 1025 394C1001 414 972 414 952 398C923 407 897 392 889 369C860 367 839 344 842 317C817 300 811 271 826 250C811 224 821 192 846 180C845 151 867 128 895 130C911 103 947 96 966 108Z" fill="url(#puff)"/>
+  <path d="M849 187C844 162 870 139 898 142C918 117 946 112 967 121M983 113C1007 108 1025 121 1038 135C1065 130 1090 147 1095 169" stroke="#FFD0A3" stroke-opacity=".42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M835 255C823 276 835 300 854 309M850 320C851 344 869 358 893 358M904 373C916 390 937 393 954 386M967 398C988 407 1005 402 1021 386M1038 388C1060 390 1079 375 1085 355M1101 352C1124 344 1128 325 1121 303" stroke="#B44F2D" stroke-opacity=".3" stroke-width="4" stroke-linecap="round"/>
+  <!-- Short, irregular fur strokes keep the shape tactile without noisy detail. -->
+  <g stroke="#FFD0A3" stroke-opacity=".28" stroke-width="2" stroke-linecap="round">
+    <path d="M878 167L889 158M901 172L914 165M945 142L957 137M986 138L997 142M1021 161L1032 169M1064 155L1074 166M1098 193L1105 203M1111 243L1115 256M871 214L868 225M849 269L853 282M876 301L882 313M904 336L916 343M947 319L958 323M982 352L995 352M1031 332L1042 326M1081 286L1087 276M1070 365L1079 356M931 369L942 372"/>
+  </g>
+  <ellipse cx="934" cy="232" rx="36" ry="41" fill="#B1492C" fill-opacity=".28"/>
+  <ellipse cx="1033" cy="232" rx="36" ry="41" fill="#B1492C" fill-opacity=".28"/>
+  <ellipse cx="932" cy="225" rx="35" ry="40" fill="url(#eye)"/>
+  <ellipse cx="1031" cy="225" rx="35" ry="40" fill="url(#eye)"/>
+  <circle cx="922" cy="207" r="12" fill="#F0F1E8"/>
+  <circle cx="1021" cy="207" r="12" fill="#F0F1E8"/>
+  <text x="982" y="436" text-anchor="middle" fill="#929F90" font-family="DejaVu Sans Mono,monospace" font-size="10" letter-spacing="3">FLUFFY FORM / ARTIFICIAL INTELLIGENCE</text>
+</svg>
